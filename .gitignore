@@ -1,0 +1,21 @@
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar archivos generados automáticamente por Code::Blocks
+*.layout
+*.depend
+
+# Ignorar archivos temporales del sistema o del editor
+*.autosave
+*.swp
+*.bak
+*.tmp
+*~
+
+# Ignorar archivos ocultos de sistema
+.DS_Store
+Thumbs.db
+
+# Git (por si estás migrando desde otro repo)
+.git/
